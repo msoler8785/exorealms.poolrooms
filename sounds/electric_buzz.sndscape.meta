@@ -1,0 +1,22 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "electric_buzz",
+      "Type": "soundscape",
+      "Org": "local",
+      "Ident": "electric_buzz",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "sounds/electric_buzz.sndscape"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "MasterVolume": "1.00,1.00,0",
+  "LoopedSounds": [
+    {
+      "SoundFile": "sounds/ambience/electric_loop.vsnd",
+      "Volume": "0.30,0.30,0"
+    }
+  ],
+  "StingSounds": []
+}

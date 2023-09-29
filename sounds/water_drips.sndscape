@@ -1,0 +1,17 @@
+{
+  "MasterVolume": "1.00,1.00,0",
+  "LoopedSounds": [
+    {
+      "SoundFile": "sounds/ambience/cave-loop.vsnd",
+      "Volume": "0.20,0.20,0"
+    }
+  ],
+  "StingSounds": [
+    {
+      "SoundFile": "sounds/water_drip_sting.sound",
+      "InstanceCount": 1,
+      "RepeatTime": "1.00,5.00,1",
+      "Distance": "50.00,256.00,1"
+    }
+  ]
+}

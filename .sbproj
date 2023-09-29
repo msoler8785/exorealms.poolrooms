@@ -1,0 +1,23 @@
+{
+  "Title": "Poolrooms",
+  "Type": "content",
+  "Org": "exorealms",
+  "Ident": "poolrooms",
+  "Tags": "poolrooms dreampools",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "Summary": "Strange pools that are eerily relaxing",
+    "Description": "This is my first map. I plan to add new rooms and features regularly.",
+    "Public": true,
+    "ReplaceTags": "poolrooms dream pools backrooms"
+  }
+}

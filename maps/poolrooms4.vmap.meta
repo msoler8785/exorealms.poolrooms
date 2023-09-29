@@ -1,0 +1,30 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "poolrooms4",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "poolrooms4",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "additionproject.goldchandelier#12413",
+        "sugmatextures.whiteconcretewall#34997",
+        "exorealms.17c1531bdc5c7b13#41168",
+        "andiq.marble_bust#12874"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/poolrooms4.vmap"
+      }
+    }
+  }
+}

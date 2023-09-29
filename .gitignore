@@ -1,0 +1,6 @@
+*.vpk
+*.los
+*.sapaths
+*.sareverb
+**/_bakeresourcecache
+.vs/*

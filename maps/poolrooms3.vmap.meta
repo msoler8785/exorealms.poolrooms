@@ -1,0 +1,33 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": null,
+      "Type": null,
+      "Org": null,
+      "Ident": null,
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "randkassets.breakable_vase#12641",
+        "alexdev.couch#2942",
+        "duccsoft.rubber_duck_toy#16327",
+        "facepunch.concrete_c_painted_hs#18364",
+        "facepunch.metal_painted_b_hs#18370",
+        "facepunch.wall_limestone_brick_large#18706",
+        "facepunch.granite_simple#18752",
+        "facepunch.wood_painted_b_hs#18392",
+        "mdlresrc.wood1#11545",
+        "facepunch.wood_a_hs#18389"
+      ],
+      "Metadata": {}
+    }
+  }
+}

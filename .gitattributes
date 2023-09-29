@@ -1,0 +1,15 @@
+# Handle line endings automatically for files detected as text 
+# and leave all files detected as binary untouched.
+* text=auto
+
+# explicit line endings
+*.vmat      text    eol=crlf
+
+# The following should use git lfs
+# *.xcf       filter=lfs diff=lfs merge=lfs -text
+# *.vtex_c    filter=lfs diff=lfs merge=lfs -text
+# *.vmap      filter=lfs diff=lfs merge=lfs -text
+# *.mp3       filter=lfs diff=lfs merge=lfs -text
+# *.vsnd_c    filter=lfs diff=lfs merge=lfs -text
+# *.tga       filter=lfs diff=lfs merge=lfs -text
+# *.png       filter=lfs diff=lfs merge=lfs -text
